@@ -12,3 +12,6 @@ Portfolio : ([Here](https://ofirdanan.netlify.app))
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ofir-danan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ofir-danan/)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofir-danan)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ofir-danan&show_icons=true)  
